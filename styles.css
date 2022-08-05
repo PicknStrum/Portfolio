@@ -1,0 +1,116 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+  font-size: 5vh;
+  text-decoration: none;
+  position: relative;
+  background-color: #6B778A;
+  width: 100%;
+  overflow: hidden;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: White;
+  Padding: 60px;
+  Font-family: 'IM Fell English SC', serif;
+}
+
+#welcome-section {
+  text-align: center;
+  Font-family: 'IM Fell English SC', serif;
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
+Main {
+    background-color: #6B778A;
+    margin-right: -10px;
+    margin-left: -10px;
+    color: white;
+    Font-family: 'IM Fell English SC', serif;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.Project-Tile {
+    display: inline-block;
+    margin: 0 auto;
+    padding: 0 90px;
+    padding-top: 3%;
+}
+
+Section {
+  font-size: 25px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+
+h2 {
+  text-align: center;
+  Font-family: 'IM Fell English SC', serif;
+  margin-top: -30px;
+  padding-bottom: 20px;
+}
+
+#Hello-Photo {
+  display: block;
+  margin: 0 auto;
+  padding-top: -30px;
+  padding-bottom: 40px;
+}
+
+#projects {
+  padding-top: 30px;
+}
+
+p {
+  margin-top: -3%;
+}
+
+#profile-link {
+  Font-family: 'IM Fell English SC', serif;
+  font-size: 40px;
+  padding-top: 50px;
+  color: black;
+}
+
+#hello-container {
+  width: 40%;
+  display: block;
+  margin: auto;
+}
+
+#profile-div {
+  text-align: center;
+  padding-top: 2%;
+}
+
+
+
+
+
+
+
